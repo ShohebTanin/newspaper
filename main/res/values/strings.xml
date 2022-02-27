@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">খবর প্রতিদিন</string>
+    <string name="app_name_splash">দৈখবর প্রতিদিন</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">খবর প্রতিদিন</string>
+    <string name="nav_header_subtitle">\@appsarena.net</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="app_id_admob">ca-app-pub-4455783919217953~7531150012</string>
+    <string name="banner_footer">ca-app-pub-4455783919217953/1895679959</string>
+    <string name="interstitial_app_id">ca-app-pub-4455783919217953/2856697394</string>
+
+
+    <string name="default_notification_channel_id">soundtrackhobor</string>
+    <string name="developed_by_appsarena">Deveolped By AppBits</string>
+    <string name="share">শেয়ার</string>
+    <string name="rate">Rate</string>
+    <string name="home">হোম</string>
+    <string name="khela_dhula">খেলাধুলা</string>
+    <string name="binodon">বিনোদন</string>
+    <string name="banijjo">বাণিজ্য</string>
+    <string name="chakri">চাকরি</string>
+    <string name="shikkha">শিক্ষা</string>
+    <string name="online">Online</string>
+    <string name="bidesh">International</string>
+    <string name="check_net"><b>!!! \nPlease Check Network Connection </b>\n Press here for \n<b>Reload</b></string>
+</resources>
