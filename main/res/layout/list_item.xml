@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/itemCaryy"
+        android:padding="5dp"
+        android:background="@drawable/btncolor_single_def"
+        android:layout_height="150dp"
+        android:orientation="vertical">
+        <ProgressBar
+            android:id="@+id/simpleProgressBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:indeterminateOnly="true"/>
+
+        <TextView
+            android:id="@+id/list_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:gravity="center"
+            android:textColor="@color/whitepure"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/toplg"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:id="@+id/lineBr"
+            android:layout_marginBottom="2dp"
+            android:background="#ccb3b3" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/toplg"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="2dp"
+            android:orientation="vertical"
+            android:id="@+id/lineBr2"
+            android:layout_marginBottom="10dp"
+            android:background="#ccb3b3"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_height="match_parent"
+            android:id="@+id/videoThumb"
+            android:layout_centerVertical="true"
+            />
+    </LinearLayout>
+
+
+</RelativeLayout>
