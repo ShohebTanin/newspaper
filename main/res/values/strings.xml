@@ -8,9 +8,9 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="app_id_admob">ca-app-pub-4455783919217953~7531150012</string>
-    <string name="banner_footer">ca-app-pub-4455783919217953/1895679959</string>
-    <string name="interstitial_app_id">ca-app-pub-4455783919217953/2856697394</string>
+    <string name="app_id_admob">ca***</string>
+    <string name="banner_footer">ca***</string>
+    <string name="interstitial_app_id">ca***</string>
 
 
     <string name="default_notification_channel_id">soundtrackhobor</string>
